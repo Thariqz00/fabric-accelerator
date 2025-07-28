@@ -778,7 +778,7 @@
       },
       "GoldWorkspaceID": {
         "type": "string",
-        "defaultValue": "9d97501b-2b77-440e-bd64-6493b1a52b94"
+        "defaultValue": "cee487b7-9692-45c4-b478-47b10b395847"
       },
       "GoldDWEndpoint": {
         "type": "string",
